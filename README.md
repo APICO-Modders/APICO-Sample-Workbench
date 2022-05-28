@@ -1,5 +1,5 @@
 # APICO-Sample-Workbench
-Sample "workbench" style menu for basic crafting recipes
+Sample "workbench" style menu object for basic crafting recipes.
 
 ![Sample Workbench](/preview.png)
 
