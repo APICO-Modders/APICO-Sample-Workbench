@@ -1,3 +1,5 @@
+-- this mod requires Apis 1.2.2+
+
 -- set some globals for later
 MOD_NAME = "sample_workbench"
 SPR_REF = {}
